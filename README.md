@@ -7,3 +7,9 @@ A lógica de programação é essencial para quem está começando na área de t
 EX 1 - Escreva um script que pergunta ao usuário se ele deseja converter uma temperatura de grau Celsius para Farenheit ou vice-versa. Para cada opção, crie uma função. Crie uma terceira, que é um menu para o usuário escolher a opção desejada, onde esse menu chama a função de conversão correta.
 
 EX 2 - Faça um programa, com uma função que necessite de três argumentos, e que forneça a soma desses três argumentos através de uma função. Seu script também deve fornecer a média dos três números, através de uma segunda função que chama a primeira.
+
+EX 3 - Faça um programa que recebe três números do usuário, e identifica o maior através de uma função e o menor número através de outra função.
+
+EX 4 - Faça um programa, com uma função que necessite de um argumento. A função retorna o valor de caractere ‘P’, se seu argumento for positivo, e ‘N’, se seu argumento for zero ou negativo.
+
+EX 5 - Escreva um algoritmo que através de uma função identifique se o nome de uma marca de carros inserida pelo usuário é de origem alemã (Volkswagen, Audio, BMW, Mercedes).
