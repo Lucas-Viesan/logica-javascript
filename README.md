@@ -13,3 +13,11 @@ EX 3 - Faça um programa que recebe três números do usuário, e identifica o m
 EX 4 - Faça um programa, com uma função que necessite de um argumento. A função retorna o valor de caractere ‘P’, se seu argumento for positivo, e ‘N’, se seu argumento for zero ou negativo.
 
 EX 5 - Escreva um algoritmo que através de uma função identifique se o nome de uma marca de carros inserida pelo usuário é de origem alemã (Volkswagen, Audio, BMW, Mercedes).
+
+## ESTRUTURA DE REPETIÇÃO
+
+EX 1 - Construa uma solução que através do loop `for` leia 5 números diferentes. A partir disso, apresente para o usuário qual foi o maior e qual foi o menor número digitado
+EX 2 - Desenvolva um código que primeiro o usuário insira os dados de um carro (ano, marca, modelo, cor e valor). Em seguida, através do loop `for in` apresente os dados na tela.
+EX 3 - Crie uma solução utilizando o comando `while` um sistema que leia nome de países. A cada loop, identifique, por meio de uma função, se esse país faz parte da América do Sul e apresente essa informação para o usuário. Em seguida, pergunte se ele deseja continuar (s para continuar, qualquer outra tecla para parar).
+
+EX-4 Desenvolva um sistema que através do comando `do while` identifique se o número digitado é impar. Enquanto o usuário digitar um número diferente de zero, continue a executar o loop.
