@@ -16,8 +16,20 @@ EX 5 - Escreva um algoritmo que através de uma função identifique se o nome d
 
 ## ESTRUTURA DE REPETIÇÃO
 
-EX 1 - Construa uma solução que através do loop `for` leia 5 números diferentes. A partir disso, apresente para o usuário qual foi o maior e qual foi o menor número digitado
+EX 1 - Construa uma solução que através do loop `for` leia 5 números diferentes. A partir disso, apresente para o usuário qual foi o maior e qual foi o menor número digitado.
+
 EX 2 - Desenvolva um código que primeiro o usuário insira os dados de um carro (ano, marca, modelo, cor e valor). Em seguida, através do loop `for in` apresente os dados na tela.
+
 EX 3 - Crie uma solução utilizando o comando `while` um sistema que leia nome de países. A cada loop, identifique, por meio de uma função, se esse país faz parte da América do Sul e apresente essa informação para o usuário. Em seguida, pergunte se ele deseja continuar (s para continuar, qualquer outra tecla para parar).
 
 EX-4 Desenvolva um sistema que através do comando `do while` identifique se o número digitado é impar. Enquanto o usuário digitar um número diferente de zero, continue a executar o loop.
+
+## ARROW FUNCTION E TRY CATCH
+
+EX 1 Desenvolva um sistema que cadastre 5 opções de menu te uma hamburgueria. O usuário deverá inserir os seguintes dados: 1. Nome do lanche 2. Valor 3. Tamanho: p, m, g
+
+Valide os dados de entrada utilizando uma arrow function, e caso ocorra um erro, utilize a função throw. Em seguida, utilizando o console.table, apresente as informações na tela.
+
+EX 2 Crie um sistema onde o usuário irá cadastrar os últimos 7 pedidos realizados em uma pizzaria. As informações inseridas deverão ser: 1. Sabor da pizza: margerita, pepperoni, frango, portuguesa. 2. Tamanho: 1, 2 ou 3 3. Data do pedido: yyyy-mm-dd 4. Hora do pedido: hh-mm 5. Valor total
+
+Valide os dados à cada entrada. Em seguida, formate os dados de cada item com data completa e o valor total seguindo os padrões do javascript. Por fim, calcule o valor total de todos os pedidos e apresente os dados formatados e o valor total na tela para o usuário.
