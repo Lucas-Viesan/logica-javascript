@@ -24,6 +24,14 @@ EX 3 - Crie uma solução utilizando o comando `while` um sistema que leia nome 
 
 EX-4 Desenvolva um sistema que através do comando `do while` identifique se o número digitado é impar. Enquanto o usuário digitar um número diferente de zero, continue a executar o loop.
 
+## DATAS
+
+1. Desenvolva um sistema que solicite o usuário o dia, mês e ano. Em seguida, apresente a data no formato de date string, UTC e ISO.
+
+2. Crie um sistema que solicite o usuário o cadastro de 5 participantes de um processo seletivo para uma bolsa escolar, contento nome e data de nascimento (ano-mes-dia). A partir disso, apresente quantos nasceram no mesmo ano e quantos nasceram no mesmo mês.
+
+3. Escreva um algoritmo que o usuário entre a hora que solicitou um taxi. Em seguida, apresente a mensagem: “Solicitação confirmada em: [apresente a data]”. Depois, solicite a previsão de minutos para chegada”. Finalizando, apresente a data final estimada para chegada ao destino.
+
 ## ARROW FUNCTION E TRY CATCH
 
 EX 1 Desenvolva um sistema que cadastre 5 opções de menu te uma hamburgueria. O usuário deverá inserir os seguintes dados: 1. Nome do lanche 2. Valor 3. Tamanho: p, m, g
