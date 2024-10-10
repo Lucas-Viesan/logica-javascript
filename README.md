@@ -41,3 +41,15 @@ Valide os dados de entrada utilizando uma arrow function, e caso ocorra um erro,
 EX 2 Crie um sistema onde o usuário irá cadastrar os últimos 7 pedidos realizados em uma pizzaria. As informações inseridas deverão ser: 1. Sabor da pizza: margerita, pepperoni, frango, portuguesa. 2. Tamanho: 1, 2 ou 3 3. Data do pedido: yyyy-mm-dd 4. Hora do pedido: hh-mm 5. Valor total
 
 Valide os dados à cada entrada. Em seguida, formate os dados de cada item com data completa e o valor total seguindo os padrões do javascript. Por fim, calcule o valor total de todos os pedidos e apresente os dados formatados e o valor total na tela para o usuário.
+
+## PROMISE E ASYNC AWAIT
+
+1. Faça um programa que solicite ao usuário o nome e a data de nascimento. Apresente os dados no terminal após 2s.
+
+2. Crie um sistema que imprima a cada 2s no terminal uma mensagem: “Brasil campeão”.
+
+3. Seguindo o exemplo de requisições realizadas na aula, realize a requisição de listagem de pokemons, em seguida, utilizando o console.table, apresente a listagem de pokemons.
+   a. https://pokeapi.co/api/v2/pokemon
+
+4. Utilizando o resultado do exercício 3, após apresentar o resultado na tela, peça ao usuário que digite o número do index do pokemon que deseja ver mais informações. Em seguida, faça uma requisição dos detalhes daquele pokemon e apresente o resultado na tela.
+   1. Ex: { name: 'bulbasaur', url: 'https://pokeapi.co/api/v2/pokemon/1/' } (index é 0 na listagem). Faça uma requisição da url e apresente o resultado no terminal.
